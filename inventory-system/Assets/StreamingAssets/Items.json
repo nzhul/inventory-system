@@ -25,6 +25,20 @@
 		"description": "It's a stick that's pretty great.",
 		"stackable": true,
 		"rarity": 6,
-		"slug":  "the-great-stick"
+		"slug": "the-great-stick"
+	},
+	{
+		"id": 2,
+		"title": "The Golden Sword",
+		"value": 234,
+		"stats": {
+			"power": 200,
+			"defense": 100,
+			"vitality": 150
+		},
+		"description": "This is the best weapon.",
+		"stackable": false,
+		"rarity": 6,
+		"slug":  "golden-sword"
 	}
 ]
